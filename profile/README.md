@@ -3,6 +3,12 @@
 ## 📚 About Us
 
 ScholarlyForge is a research-driven team dedicated to crafting high-quality academic papers. Our mission is to explore innovative ideas, conduct rigorous experiments, and contribute valuable insights to the research community. We specialize in a wide range of fields, including artificial intelligence, quantum computing, and embedded systems.
+- Team leader
+  - [Sunjun Hwang](https://github.com/justinbrianhwang)
+- Team Member
+  - [Sunje Keum](https://github.com/Aurumm79)
+  - [Hongjun Jeon](https://github.com/hongoonjun)
+
 
 ## 🔍 Our Focus
 
