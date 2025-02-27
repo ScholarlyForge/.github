@@ -14,6 +14,7 @@ Collaborative Development: Open-source contributions and knowledge sharing
 
 ## 📂 Repository Structure
 
+```
 ScholarlyForge/
 │── docs/                 # Paper drafts and documentation
 │── src/                  # Research-related code
@@ -24,7 +25,7 @@ ScholarlyForge/
 │── README.md             # Project overview
 │── CONTRIBUTING.md       # Guidelines for contributors
 │── requirements.txt      # Dependency list (if applicable)
-
+```
 
 ## 🤝 Contributing
 
