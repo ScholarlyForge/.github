@@ -35,7 +35,3 @@ We welcome contributions from researchers, developers, and academics. Please che
 
 This project is licensed under the MIT License, ensuring open collaboration and knowledge sharing.
 
-## 📧 Contact Us
-
-For inquiries and collaboration opportunities, reach out to us via your-email@example.com or open an issue in this repository.
-
